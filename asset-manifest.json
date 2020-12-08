@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/contact-task/static/css/main.aa2e5f64.chunk.css",
+    "main.js": "/contact-task/static/js/main.f7e7ebd1.chunk.js",
+    "main.js.map": "/contact-task/static/js/main.f7e7ebd1.chunk.js.map",
+    "runtime-main.js": "/contact-task/static/js/runtime-main.3d8c9b46.js",
+    "runtime-main.js.map": "/contact-task/static/js/runtime-main.3d8c9b46.js.map",
+    "static/js/2.241a9ae3.chunk.js": "/contact-task/static/js/2.241a9ae3.chunk.js",
+    "static/js/2.241a9ae3.chunk.js.map": "/contact-task/static/js/2.241a9ae3.chunk.js.map",
+    "static/js/3.3c34d28f.chunk.js": "/contact-task/static/js/3.3c34d28f.chunk.js",
+    "static/js/3.3c34d28f.chunk.js.map": "/contact-task/static/js/3.3c34d28f.chunk.js.map",
+    "index.html": "/contact-task/index.html",
+    "static/css/main.aa2e5f64.chunk.css.map": "/contact-task/static/css/main.aa2e5f64.chunk.css.map",
+    "static/js/2.241a9ae3.chunk.js.LICENSE.txt": "/contact-task/static/js/2.241a9ae3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d8c9b46.js",
+    "static/js/2.241a9ae3.chunk.js",
+    "static/css/main.aa2e5f64.chunk.css",
+    "static/js/main.f7e7ebd1.chunk.js"
+  ]
+}
