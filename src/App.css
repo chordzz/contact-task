@@ -1,5 +1,34 @@
 .App {
   text-align: center;
+  display: flexbox;
+  color: grey;
+}
+
+.App-logo {
+  width: 300px;
+  pointer-events: none;
+}
+
+.contact-container {
+  border-radius: 50px;
+  border-style: double;
+  display: flex;
+  background-color: white;
+  margin: 30px auto 5px;
+  width: 60%;
+  padding: 0 70px;
+
+}
+
+
+
+
+
+
+
+
+/* .App {
+  text-align: center;
 }
 
 .App-logo {
@@ -35,4 +64,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

@@ -1,0 +1,51 @@
+.form {
+    width: 50%;
+    margin: 0px auto;
+    padding: 35px 50px;
+    text-align: left;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color:  rgb(117, 77, 211);;
+}
+
+.myForm {
+    margin: 30px 0;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: #f8f8f8;
+    border-radius: 20px;
+    border: none;
+    
+}
+
+textarea {
+    resize: none;
+}
+
+input:focus, textarea:focus {
+    outline: none;
+    border: solid 2px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+button {
+    margin: 20px 0;
+    width: 70%;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(117, 77, 211);
+    color: white;
+    cursor: pointer;
+    box-shadow:20px 20px 30px grey; 
+}
+

@@ -1,0 +1,51 @@
+.contact-us {
+    text-align: left;
+    width: 50%;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.top-img {
+    width: 100%;
+    height: 50%;
+    margin-bottom: 30px;
+}
+
+
+ul {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    
+}
+
+li {
+    display: flex;
+    padding: 0;
+}
+
+i {
+    opacity: 0.5;
+    padding: 10px;
+    padding-top: 0;
+}
+
+i.fa-map-marker-alt {
+    margin-bottom: 40px;
+}
+
+.logos {
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.logos img {
+    width: 40px;
+    margin-right: 15px; 
+    cursor: pointer;
+}
+
